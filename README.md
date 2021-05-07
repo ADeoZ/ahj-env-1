@@ -1,5 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/jikk4y29oc66lpqj?svg=true)](https://ci.appveyor.com/project/ADeoZ/ahj-env-1)
 
+[Ссылка на GitHub Pages](https://github.com/ADeoZ/ahj-env-1)
 
 # Webpack5
 
